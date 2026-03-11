@@ -1,0 +1,1719 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rns>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>2995</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>TÀI SẢN </Name>
+		<ParentName>TÀI SẢN </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3000</ReportNormID>
+		<PublishNormCode>100</PublishNormCode>
+		<Name>A. TÀI SẢN NGẮN HẠN</Name>
+		<ParentName>TỔNG CỘNG TÀI SẢN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3003</ReportNormID>
+		<PublishNormCode>110</PublishNormCode>
+		<Name>I.   Tiền và các khoản tương đương tiền</Name>
+		<ParentName>A. TÀI SẢN NGẮN HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3018</ReportNormID>
+		<PublishNormCode>111</PublishNormCode>
+		<Name>1. Tiền</Name>
+		<ParentName>I.   Tiền và các khoản tương đương tiền</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3019</ReportNormID>
+		<PublishNormCode>112</PublishNormCode>
+		<Name>2. Các khoản tương đương tiền</Name>
+		<ParentName>I.   Tiền và các khoản tương đương tiền</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3004</ReportNormID>
+		<PublishNormCode>120</PublishNormCode>
+		<Name>II.  Đầu tư tài chính ngắn hạn</Name>
+		<ParentName>A. TÀI SẢN NGẮN HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3020</ReportNormID>
+		<PublishNormCode>121</PublishNormCode>
+		<Name>1. Chứng khoán kinh doanh</Name>
+		<ParentName>II.  Đầu tư tài chính ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3021</ReportNormID>
+		<PublishNormCode>122</PublishNormCode>
+		<Name>2. Dự phòng giảm giá chứng khoán kinh doanh</Name>
+		<ParentName>II.  Đầu tư tài chính ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5297</ReportNormID>
+		<PublishNormCode>123</PublishNormCode>
+		<Name>3. Đầu tư nắm giữ đến ngày đáo hạn</Name>
+		<ParentName>II.  Đầu tư tài chính ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3005</ReportNormID>
+		<PublishNormCode>130</PublishNormCode>
+		<Name>III. Các khoản phải thu ngắn hạn</Name>
+		<ParentName>A. TÀI SẢN NGẮN HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3022</ReportNormID>
+		<PublishNormCode>131</PublishNormCode>
+		<Name>1. Phải thu ngắn hạn của khách hàng</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3023</ReportNormID>
+		<PublishNormCode>132</PublishNormCode>
+		<Name>2. Trả trước cho người bán ngắn hạn</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3024</ReportNormID>
+		<PublishNormCode>133</PublishNormCode>
+		<Name>3. Phải thu nội bộ ngắn hạn</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3025</ReportNormID>
+		<PublishNormCode>134</PublishNormCode>
+		<Name>4. Phải thu theo tiến độ kế hoạch hợp đồng xây dựng</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5300</ReportNormID>
+		<PublishNormCode>135</PublishNormCode>
+		<Name>5. Phải thu về cho vay ngắn hạn</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3026</ReportNormID>
+		<PublishNormCode>136</PublishNormCode>
+		<Name>6. Phải thu ngắn hạn khác</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3079</ReportNormID>
+		<PublishNormCode>137</PublishNormCode>
+		<Name>7. Dự phòng phải thu ngắn hạn khó đòi</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5299</ReportNormID>
+		<PublishNormCode>139</PublishNormCode>
+		<Name>8. Tài sản thiếu chờ xử lý</Name>
+		<ParentName>III. Các khoản phải thu ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3006</ReportNormID>
+		<PublishNormCode>140</PublishNormCode>
+		<Name>IV. Hàng tồn kho</Name>
+		<ParentName>A. TÀI SẢN NGẮN HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3027</ReportNormID>
+		<PublishNormCode>141</PublishNormCode>
+		<Name>1. Hàng tồn kho</Name>
+		<ParentName>IV. Hàng tồn kho</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3080</ReportNormID>
+		<PublishNormCode>149</PublishNormCode>
+		<Name>2. Dự phòng giảm giá hàng tồn kho </Name>
+		<ParentName>IV. Hàng tồn kho</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3007</ReportNormID>
+		<PublishNormCode>150</PublishNormCode>
+		<Name>V. Tài sản ngắn hạn khác</Name>
+		<ParentName>A. TÀI SẢN NGẮN HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3028</ReportNormID>
+		<PublishNormCode>151</PublishNormCode>
+		<Name>1. Chi phí trả trước ngắn hạn</Name>
+		<ParentName>V. Tài sản ngắn hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3029</ReportNormID>
+		<PublishNormCode>152</PublishNormCode>
+		<Name>2. Thuế GTGT còn được khấu trừ</Name>
+		<ParentName>V. Tài sản ngắn hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3030</ReportNormID>
+		<PublishNormCode>153</PublishNormCode>
+		<Name>3. Thuế và các khoản khác phải thu của nhà nước</Name>
+		<ParentName>V. Tài sản ngắn hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5270</ReportNormID>
+		<PublishNormCode>154</PublishNormCode>
+		<Name>4. Giao dịch mua bán lại trái phiếu Chính phủ (TS)</Name>
+		<ParentName>V. Tài sản ngắn hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3031</ReportNormID>
+		<PublishNormCode>155</PublishNormCode>
+		<Name>5. Tài sản ngắn hạn khác</Name>
+		<ParentName>V. Tài sản ngắn hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3001</ReportNormID>
+		<PublishNormCode>200</PublishNormCode>
+		<Name>B. TÀI SẢN DÀI HẠN</Name>
+		<ParentName>TỔNG CỘNG TÀI SẢN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3008</ReportNormID>
+		<PublishNormCode>210</PublishNormCode>
+		<Name>I. Các khoản phải thu dài hạn</Name>
+		<ParentName>B. TÀI SẢN DÀI HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3032</ReportNormID>
+		<PublishNormCode>211</PublishNormCode>
+		<Name>1. Phải thu dài hạn của khách hàng</Name>
+		<ParentName>I. Các khoản phải thu dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5301</ReportNormID>
+		<PublishNormCode>212</PublishNormCode>
+		<Name>2. Trả trước cho người bán dài hạn</Name>
+		<ParentName>I. Các khoản phải thu dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3033</ReportNormID>
+		<PublishNormCode>213</PublishNormCode>
+		<Name>3. Vốn kinh doanh ở các đơn vị trực thuộc</Name>
+		<ParentName>I. Các khoản phải thu dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3034</ReportNormID>
+		<PublishNormCode>214</PublishNormCode>
+		<Name>4.  Phải thu nội bộ dài hạn</Name>
+		<ParentName>I. Các khoản phải thu dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5302</ReportNormID>
+		<PublishNormCode>215</PublishNormCode>
+		<Name>5. Phải thu về cho vay dài hạn</Name>
+		<ParentName>I. Các khoản phải thu dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3081</ReportNormID>
+		<PublishNormCode>216</PublishNormCode>
+		<Name>6. Phải thu dài hạn khác</Name>
+		<ParentName>I. Các khoản phải thu dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3082</ReportNormID>
+		<PublishNormCode>219</PublishNormCode>
+		<Name>7. Dự phòng phải thu dài hạn khó đòi</Name>
+		<ParentName>I. Các khoản phải thu dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3009</ReportNormID>
+		<PublishNormCode>220</PublishNormCode>
+		<Name>II. Tài sản cố định</Name>
+		<ParentName>B. TÀI SẢN DÀI HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3035</ReportNormID>
+		<PublishNormCode>221</PublishNormCode>
+		<Name>1. Tài sản cố định hữu hình</Name>
+		<ParentName>II. Tài sản cố định</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3083</ReportNormID>
+		<PublishNormCode>222</PublishNormCode>
+		<Name>      - Nguyên giá</Name>
+		<ParentName>1. Tài sản cố định hữu hình</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3084</ReportNormID>
+		<PublishNormCode>223</PublishNormCode>
+		<Name>      - Giá trị hao mòn lũy kế </Name>
+		<ParentName>1. Tài sản cố định hữu hình</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3036</ReportNormID>
+		<PublishNormCode>224</PublishNormCode>
+		<Name>2. Tài sản cố định thuê tài chính</Name>
+		<ParentName>II. Tài sản cố định</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3085</ReportNormID>
+		<PublishNormCode>225</PublishNormCode>
+		<Name>      - Nguyên giá</Name>
+		<ParentName>2. Tài sản cố định thuê tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3086</ReportNormID>
+		<PublishNormCode>226</PublishNormCode>
+		<Name>      - Giá trị hao mòn lũy kế </Name>
+		<ParentName>2. Tài sản cố định thuê tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3037</ReportNormID>
+		<PublishNormCode>227</PublishNormCode>
+		<Name>3. Tài sản cố định vô hình</Name>
+		<ParentName>II. Tài sản cố định</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3087</ReportNormID>
+		<PublishNormCode>228</PublishNormCode>
+		<Name>      - Nguyên giá</Name>
+		<ParentName>3. Tài sản cố định vô hình</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3088</ReportNormID>
+		<PublishNormCode>229</PublishNormCode>
+		<Name>      - Giá trị hao mòn lũy kế </Name>
+		<ParentName>3. Tài sản cố định vô hình</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3010</ReportNormID>
+		<PublishNormCode>230</PublishNormCode>
+		<Name>III. Bất động sản đầu tư</Name>
+		<ParentName>B. TÀI SẢN DÀI HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3039</ReportNormID>
+		<PublishNormCode>231</PublishNormCode>
+		<Name>- Nguyên giá</Name>
+		<ParentName>III. Bất động sản đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3040</ReportNormID>
+		<PublishNormCode>232</PublishNormCode>
+		<Name>- Giá trị hao mòn lũy kế</Name>
+		<ParentName>III. Bất động sản đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5298</ReportNormID>
+		<PublishNormCode>240</PublishNormCode>
+		<Name>IV. Tài sản dở dang dài hạn</Name>
+		<ParentName>B. TÀI SẢN DÀI HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5303</ReportNormID>
+		<PublishNormCode>241</PublishNormCode>
+		<Name>1. Chi phí sản xuất, kinh doanh dở dang dài hạn</Name>
+		<ParentName>IV. Tài sản dở dang dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3038</ReportNormID>
+		<PublishNormCode>242</PublishNormCode>
+		<Name>2. Chi phí xây dựng cơ bản dở dang</Name>
+		<ParentName>IV. Tài sản dở dang dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3011</ReportNormID>
+		<PublishNormCode>250</PublishNormCode>
+		<Name>V. Đầu tư tài chính dài hạn</Name>
+		<ParentName>B. TÀI SẢN DÀI HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3041</ReportNormID>
+		<PublishNormCode>251</PublishNormCode>
+		<Name>1. Đầu tư vào công ty con</Name>
+		<ParentName>V. Đầu tư tài chính dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3042</ReportNormID>
+		<PublishNormCode>252</PublishNormCode>
+		<Name>2. Đầu tư vào công ty liên kết, liên doanh</Name>
+		<ParentName>V. Đầu tư tài chính dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5304</ReportNormID>
+		<PublishNormCode>253</PublishNormCode>
+		<Name>3. Đầu tư góp vốn vào đơn vị khác</Name>
+		<ParentName>V. Đầu tư tài chính dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3044</ReportNormID>
+		<PublishNormCode>254</PublishNormCode>
+		<Name>4. Dự phòng đầu tư tài chính dài hạn</Name>
+		<ParentName>V. Đầu tư tài chính dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5312</ReportNormID>
+		<PublishNormCode>255</PublishNormCode>
+		<Name>5. Đầu tư nắm giữ đến ngày đáo hạn</Name>
+		<ParentName>V. Đầu tư tài chính dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3043</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>6. Đầu tư dài hạn khác</Name>
+		<ParentName>V. Đầu tư tài chính dài hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3013</ReportNormID>
+		<PublishNormCode>260</PublishNormCode>
+		<Name>VI. Tài sản dài hạn khác</Name>
+		<ParentName>B. TÀI SẢN DÀI HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3045</ReportNormID>
+		<PublishNormCode>261</PublishNormCode>
+		<Name>1. Chi phí trả trước dài hạn</Name>
+		<ParentName>VI. Tài sản dài hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3046</ReportNormID>
+		<PublishNormCode>262</PublishNormCode>
+		<Name>2. Tài sản thuế thu nhập hoãn lại</Name>
+		<ParentName>VI. Tài sản dài hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5305</ReportNormID>
+		<PublishNormCode>263</PublishNormCode>
+		<Name>3. Thiết bị, vật tư, phụ tùng thay thế dài hạn</Name>
+		<ParentName>VI. Tài sản dài hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3047</ReportNormID>
+		<PublishNormCode>268</PublishNormCode>
+		<Name>4. Tài sản dài hạn khác</Name>
+		<ParentName>VI. Tài sản dài hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3012</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>5. Lợi thế thương mại</Name>
+		<ParentName>VI. Tài sản dài hạn khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5732</ReportNormID>
+		<PublishNormCode>269</PublishNormCode>
+		<Name>VII. Lợi thế thương mại (áp dụng trước năm 2015)</Name>
+		<ParentName>B. TÀI SẢN DÀI HẠN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>2996</ReportNormID>
+		<PublishNormCode>280</PublishNormCode>
+		<Name>TỔNG CỘNG TÀI SẢN</Name>
+		<ParentName>TỔNG CỘNG TÀI SẢN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>2994</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>NGUỒN VỐN</Name>
+		<ParentName>NGUỒN VỐN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>2997</ReportNormID>
+		<PublishNormCode>300</PublishNormCode>
+		<Name>A. NỢ PHẢI TRẢ</Name>
+		<ParentName>TỔNG CỘNG NGUỒN VỐN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3014</ReportNormID>
+		<PublishNormCode>310</PublishNormCode>
+		<Name>I. Nợ ngắn hạn</Name>
+		<ParentName>A. NỢ PHẢI TRẢ</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3048</ReportNormID>
+		<PublishNormCode>311</PublishNormCode>
+		<Name>1. Phải trả người bán ngắn hạn</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3049</ReportNormID>
+		<PublishNormCode>312</PublishNormCode>
+		<Name>2. Người mua trả tiền trước ngắn hạn</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3050</ReportNormID>
+		<PublishNormCode>313</PublishNormCode>
+		<Name>3. Thuế và các khoản phải nộp Nhà nước</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3051</ReportNormID>
+		<PublishNormCode>314</PublishNormCode>
+		<Name>4. Phải trả người lao động</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3052</ReportNormID>
+		<PublishNormCode>315</PublishNormCode>
+		<Name>5. Chi phí phải trả ngắn hạn</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3053</ReportNormID>
+		<PublishNormCode>316</PublishNormCode>
+		<Name>6. Phải trả nội bộ ngắn hạn</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3054</ReportNormID>
+		<PublishNormCode>317</PublishNormCode>
+		<Name>7. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>4804</ReportNormID>
+		<PublishNormCode>318</PublishNormCode>
+		<Name>8. Doanh thu chưa thực hiện ngắn hạn</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3055</ReportNormID>
+		<PublishNormCode>319</PublishNormCode>
+		<Name>9. Phải trả ngắn hạn khác</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3077</ReportNormID>
+		<PublishNormCode>320</PublishNormCode>
+		<Name>10. Vay và nợ thuê tài chính ngắn hạn</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3056</ReportNormID>
+		<PublishNormCode>321</PublishNormCode>
+		<Name>11. Dự phòng phải trả ngắn hạn</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3074</ReportNormID>
+		<PublishNormCode>322</PublishNormCode>
+		<Name>12. Quỹ khen thưởng phúc lợi</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5306</ReportNormID>
+		<PublishNormCode>323</PublishNormCode>
+		<Name>13. Quỹ bình ổn giá</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5269</ReportNormID>
+		<PublishNormCode>324</PublishNormCode>
+		<Name>14. Giao dịch mua bán lại trái phiếu chính phủ</Name>
+		<ParentName>I. Nợ ngắn hạn</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3017</ReportNormID>
+		<PublishNormCode>330</PublishNormCode>
+		<Name>II. Nợ dài hạn </Name>
+		<ParentName>A. NỢ PHẢI TRẢ</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3057</ReportNormID>
+		<PublishNormCode>331</PublishNormCode>
+		<Name>1. Phải trả người bán dài hạn</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5307</ReportNormID>
+		<PublishNormCode>332</PublishNormCode>
+		<Name>2. Người mua trả tiền trước dài hạn</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5308</ReportNormID>
+		<PublishNormCode>333</PublishNormCode>
+		<Name>3. Chi phí phải trả dài hạn</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5309</ReportNormID>
+		<PublishNormCode>334</PublishNormCode>
+		<Name>4. Phải trả nội bộ về vốn kinh doanh</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3058</ReportNormID>
+		<PublishNormCode>335</PublishNormCode>
+		<Name>5. Phải trả nội bộ dài hạn</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>4066</ReportNormID>
+		<PublishNormCode>336</PublishNormCode>
+		<Name>6. Doanh thu chưa thực hiện dài hạn</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3059</ReportNormID>
+		<PublishNormCode>337</PublishNormCode>
+		<Name>7. Phải trả dài hạn khác</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3078</ReportNormID>
+		<PublishNormCode>338</PublishNormCode>
+		<Name>8. Vay và nợ thuê tài chính dài hạn</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5310</ReportNormID>
+		<PublishNormCode>339</PublishNormCode>
+		<Name>9. Trái phiếu chuyển đổi</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5319</ReportNormID>
+		<PublishNormCode>340</PublishNormCode>
+		<Name>10. Cổ phiếu ưu đãi (Nợ)</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3060</ReportNormID>
+		<PublishNormCode>341</PublishNormCode>
+		<Name>11. Thuế thu nhập hoãn lại phải trả</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3062</ReportNormID>
+		<PublishNormCode>342</PublishNormCode>
+		<Name>12. Dự phòng phải trả dài hạn</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>4067</ReportNormID>
+		<PublishNormCode>343</PublishNormCode>
+		<Name>13. Quỹ phát triển khoa học và công nghệ</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3061</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>14. Dự phòng trợ cấp mất việc làm</Name>
+		<ParentName>II. Nợ dài hạn </ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>2998</ReportNormID>
+		<PublishNormCode>400</PublishNormCode>
+		<Name>B. VỐN CHỦ SỞ HỮU</Name>
+		<ParentName>TỔNG CỘNG NGUỒN VỐN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3015</ReportNormID>
+		<PublishNormCode>410</PublishNormCode>
+		<Name>I. Vốn chủ sở hữu</Name>
+		<ParentName>B. VỐN CHỦ SỞ HỮU</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3063</ReportNormID>
+		<PublishNormCode>411</PublishNormCode>
+		<Name>1. Vốn góp của chủ sở hữu</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5313</ReportNormID>
+		<PublishNormCode>411a</PublishNormCode>
+		<Name>- Cổ phiếu phổ thông có quyền biểu quyết</Name>
+		<ParentName>1. Vốn góp của chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5318</ReportNormID>
+		<PublishNormCode>411b</PublishNormCode>
+		<Name>- Cổ phiếu ưu đãi</Name>
+		<ParentName>1. Vốn góp của chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3064</ReportNormID>
+		<PublishNormCode>412</PublishNormCode>
+		<Name>2. Thặng dư vốn cổ phần</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5311</ReportNormID>
+		<PublishNormCode>413</PublishNormCode>
+		<Name>3. Quyền chọn chuyển đổi trái phiếu</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3065</ReportNormID>
+		<PublishNormCode>414</PublishNormCode>
+		<Name>4. Vốn khác của chủ sở hữu</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3066</ReportNormID>
+		<PublishNormCode>415</PublishNormCode>
+		<Name>5. Cổ phiếu quỹ (*)</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3067</ReportNormID>
+		<PublishNormCode>416</PublishNormCode>
+		<Name>6. Chênh lệch đánh giá lại tài sản</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3068</ReportNormID>
+		<PublishNormCode>417</PublishNormCode>
+		<Name>7. Chênh lệch tỷ giá hối đoái</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3069</ReportNormID>
+		<PublishNormCode>418</PublishNormCode>
+		<Name>8. Quỹ đầu tư phát triển</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>4073</ReportNormID>
+		<PublishNormCode>419</PublishNormCode>
+		<Name>9. Quỹ hỗ trợ sắp xếp doanh nghiệp</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3071</ReportNormID>
+		<PublishNormCode>420</PublishNormCode>
+		<Name>10. Quỹ khác thuộc vốn chủ sở hữu</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3072</ReportNormID>
+		<PublishNormCode>421</PublishNormCode>
+		<Name>11. Lợi nhuận sau thuế chưa phân phối</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5314</ReportNormID>
+		<PublishNormCode>421a</PublishNormCode>
+		<Name>- LNST chưa phân phối lũy kế đến cuối kỳ trước</Name>
+		<ParentName>11. Lợi nhuận sau thuế chưa phân phối</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5315</ReportNormID>
+		<PublishNormCode>421b</PublishNormCode>
+		<Name>- LNST chưa phân phối kỳ này</Name>
+		<ParentName>11. Lợi nhuận sau thuế chưa phân phối</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3073</ReportNormID>
+		<PublishNormCode>422</PublishNormCode>
+		<Name>12. Nguồn vốn đầu tư XDCB</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>5320</ReportNormID>
+		<PublishNormCode>429</PublishNormCode>
+		<Name>13. Lợi ích cổ đông không kiểm soát</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3070</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>14. Quỹ dự phòng tài chính</Name>
+		<ParentName>I. Vốn chủ sở hữu</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3016</ReportNormID>
+		<PublishNormCode>430</PublishNormCode>
+		<Name>II. Nguồn kinh phí và quỹ khác</Name>
+		<ParentName>B. VỐN CHỦ SỞ HỮU</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3075</ReportNormID>
+		<PublishNormCode>431</PublishNormCode>
+		<Name>1. Nguồn kinh phí</Name>
+		<ParentName>II. Nguồn kinh phí và quỹ khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3076</ReportNormID>
+		<PublishNormCode>432</PublishNormCode>
+		<Name>2. Nguồn kinh phí đã hình thành TSCĐ</Name>
+		<ParentName>II. Nguồn kinh phí và quỹ khác</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>3002</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>C. LỢI ÍCH CỦA CỔ ĐÔNG THIỂU SỐ</Name>
+		<ParentName>TỔNG CỘNG NGUỒN VỐN</ParentName>
+	</rn>
+	<rn>
+		<Code>CD</Code>
+		<ReportNormID>2999</ReportNormID>
+		<PublishNormCode>440</PublishNormCode>
+		<Name>TỔNG CỘNG NGUỒN VỐN</Name>
+		<ParentName>TỔNG CỘNG NGUỒN VỐN</ParentName>
+	</rn>
+
+
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2206</ReportNormID>
+		<PublishNormCode>01</PublishNormCode>
+		<Name>1. Doanh thu bán hàng và cung cấp dịch vụ </Name>
+		<ParentName>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2218</ReportNormID>
+		<PublishNormCode>02</PublishNormCode>
+		<Name>2. Các khoản giảm trừ doanh thu</Name>
+		<ParentName>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2216</ReportNormID>
+		<PublishNormCode>10</PublishNormCode>
+		<Name>3. Doanh thu thuần về bán hàng và cung cấp dịch vụ</Name>
+		<ParentName>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2207</ReportNormID>
+		<PublishNormCode>11</PublishNormCode>
+		<Name>4. Giá vốn hàng bán </Name>
+		<ParentName>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2217</ReportNormID>
+		<PublishNormCode>20</PublishNormCode>
+		<Name>5. Lợi nhuận gộp về bán hàng và cung cấp dịch vụ</Name>
+		<ParentName>11. Lợi nhuận thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2221</ReportNormID>
+		<PublishNormCode>21</PublishNormCode>
+		<Name>6. Doanh thu hoạt động tài chính</Name>
+		<ParentName>11. Lợi nhuận thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2222</ReportNormID>
+		<PublishNormCode>22</PublishNormCode>
+		<Name>7. Chi phí tài chính </Name>
+		<ParentName>11. Lợi nhuận thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2223</ReportNormID>
+		<PublishNormCode>23</PublishNormCode>
+		<Name>   Trong đó :Chi phí lãi vay</Name>
+		<ParentName>   Trong đó :Chi phí lãi vay</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>5321</ReportNormID>
+		<PublishNormCode>24</PublishNormCode>
+		<Name>8. Phần lãi/lỗ trong công ty liên doanh, liên kết</Name>
+		<ParentName>11. Lợi nhuận thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2227</ReportNormID>
+		<PublishNormCode>25</PublishNormCode>
+		<Name>9. Chi phí bán hàng</Name>
+		<ParentName>11. Lợi nhuận thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2224</ReportNormID>
+		<PublishNormCode>26</PublishNormCode>
+		<Name>10. Chi phí quản lý doanh nghiệp</Name>
+		<ParentName>11. Lợi nhuận thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2208</ReportNormID>
+		<PublishNormCode>30</PublishNormCode>
+		<Name>11. Lợi nhuận thuần từ hoạt động kinh doanh</Name>
+		<ParentName>15. Tổng lợi nhuận kế toán trước thuế</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2225</ReportNormID>
+		<PublishNormCode>31</PublishNormCode>
+		<Name>12. Thu nhập khác</Name>
+		<ParentName>14. Lợi nhuận khác</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2226</ReportNormID>
+		<PublishNormCode>32</PublishNormCode>
+		<Name>13. Chi phí khác</Name>
+		<ParentName>14. Lợi nhuận khác</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2209</ReportNormID>
+		<PublishNormCode>40</PublishNormCode>
+		<Name>14. Lợi nhuận khác</Name>
+		<ParentName>15. Tổng lợi nhuận kế toán trước thuế</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2210</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Phần lãi/lỗ trong công ty liên doanh, liên kết</Name>
+		<ParentName>15. Tổng lợi nhuận kế toán trước thuế</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2211</ReportNormID>
+		<PublishNormCode>50</PublishNormCode>
+		<Name>15. Tổng lợi nhuận kế toán trước thuế</Name>
+		<ParentName>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2219</ReportNormID>
+		<PublishNormCode>51</PublishNormCode>
+		<Name>16. Chi phí thuế TNDN hiện hành</Name>
+		<ParentName>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2220</ReportNormID>
+		<PublishNormCode>52</PublishNormCode>
+		<Name>17. Chi phí thuế TNDN hoãn lại</Name>
+		<ParentName>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2212</ReportNormID>
+		<PublishNormCode>60</PublishNormCode>
+		<Name>18. Lợi nhuận sau thuế thu nhập doanh nghiệp</Name>
+		<ParentName>Lợi nhuận sau thuế của cổ đông của Công ty mẹ</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2213</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Lợi ích của cổ đông thiểu số</Name>
+		<ParentName>Lợi nhuận sau thuế của cổ đông của Công ty mẹ</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2214</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Lợi nhuận sau thuế của cổ đông của Công ty mẹ</Name>
+		<ParentName>Lợi nhuận sau thuế của cổ đông của Công ty mẹ</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>2215</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>19. Lãi cơ bản trên cổ phiếu</Name>
+		<ParentName>19. Lãi cơ bản trên cổ phiếu</ParentName>
+	</rn>
+	<rn>
+		<Code>KQ</Code>
+		<ReportNormID>5316</ReportNormID>
+		<PublishNormCode>71</PublishNormCode>
+		<Name>20. Lãi suy giảm trên cổ phiếu</Name>
+		<ParentName>20. Lãi suy giảm trên cổ phiếu</ParentName>
+	</rn>
+
+
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2267</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>I. Lưu chuyển tiền từ hoạt động kinh doanh</Name>
+		<ParentName>I. Lưu chuyển tiền từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2291</ReportNormID>
+		<PublishNormCode>01</PublishNormCode>
+		<Name>1. Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2292</ReportNormID>
+		<PublishNormCode>02</PublishNormCode>
+		<Name>2. Tiền chi trả cho người cung cấp hàng hoá và dịch vụ</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2293</ReportNormID>
+		<PublishNormCode>03</PublishNormCode>
+		<Name>3. Tiền chi trả cho người lao động</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2294</ReportNormID>
+		<PublishNormCode>04</PublishNormCode>
+		<Name>4. Tiền chi trả lãi vay</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2295</ReportNormID>
+		<PublishNormCode>05</PublishNormCode>
+		<Name>5. Tiền chi nộp thuế thu nhập doanh nghiệp</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2277</ReportNormID>
+		<PublishNormCode>06</PublishNormCode>
+		<Name>6. Tiền thu khác từ hoạt động kinh doanh</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2296</ReportNormID>
+		<PublishNormCode>07</PublishNormCode>
+		<Name>7. Tiền chi khác cho hoạt động kinh doanh</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2270</ReportNormID>
+		<PublishNormCode>20</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần từ hoạt động kinh doanh</Name>
+		<ParentName>Lưu chuyển tiền thuần trong kỳ (50=20+30+40)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2268</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>II. Lưu chuyển tiền từ hoạt động đầu tư</Name>
+		<ParentName>II. Lưu chuyển tiền từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2278</ReportNormID>
+		<PublishNormCode>21</PublishNormCode>
+		<Name>1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2279</ReportNormID>
+		<PublishNormCode>22</PublishNormCode>
+		<Name>2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2280</ReportNormID>
+		<PublishNormCode>23</PublishNormCode>
+		<Name>3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2281</ReportNormID>
+		<PublishNormCode>24</PublishNormCode>
+		<Name>4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2282</ReportNormID>
+		<PublishNormCode>25</PublishNormCode>
+		<Name>5. Tiền chi đầu tư góp vốn vào đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2283</ReportNormID>
+		<PublishNormCode>26</PublishNormCode>
+		<Name>6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2284</ReportNormID>
+		<PublishNormCode>27</PublishNormCode>
+		<Name>7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>5280</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>8. Tiền thu khác từ hoạt động đầu tư</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>5281</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>9. Tiền chi khác cho hoat động đầu tư</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2271</ReportNormID>
+		<PublishNormCode>30</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần từ hoạt động đầu tư</Name>
+		<ParentName>Lưu chuyển tiền thuần trong kỳ (50=20+30+40)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2269</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>III. Lưu chuyển tiền từ hoạt động tài chính</Name>
+		<ParentName>III. Lưu chuyển tiền từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2285</ReportNormID>
+		<PublishNormCode>31</PublishNormCode>
+		<Name>1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2286</ReportNormID>
+		<PublishNormCode>32</PublishNormCode>
+		<Name>2. Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2287</ReportNormID>
+		<PublishNormCode>33</PublishNormCode>
+		<Name>3. Tiền thu từ đi vay</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2288</ReportNormID>
+		<PublishNormCode>34</PublishNormCode>
+		<Name>4. Tiền chi trả nợ gốc vay</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2289</ReportNormID>
+		<PublishNormCode>35</PublishNormCode>
+		<Name>5. Tiền trả nợ gốc thuê tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2290</ReportNormID>
+		<PublishNormCode>36</PublishNormCode>
+		<Name>6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>5282</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>7. Tiền thu khác từ hoạt động tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>5283</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>8. Tiền chi khác cho hoạt động tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2272</ReportNormID>
+		<PublishNormCode>40</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần từ hoạt động tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần trong kỳ (50=20+30+40)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2274</ReportNormID>
+		<PublishNormCode>50</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần trong kỳ (50=20+30+40)</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50+60+61)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2275</ReportNormID>
+		<PublishNormCode>60</PublishNormCode>
+		<Name>Tiền và tương đương tiền đầu kỳ</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50+60+61)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2273</ReportNormID>
+		<PublishNormCode>61</PublishNormCode>
+		<Name>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50+60+61)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCTT</Code>
+		<ReportNormID>2276</ReportNormID>
+		<PublishNormCode>70</PublishNormCode>
+		<Name>Tiền và tương đương tiền cuối kỳ (70 = 50+60+61)</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50+60+61)</ParentName>
+	</rn>
+
+
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2228</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>I. Lưu chuyển tiền từ hoạt động kinh doanh</Name>
+		<ParentName>I. Lưu chuyển tiền từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2232</ReportNormID>
+		<PublishNormCode>01</PublishNormCode>
+		<Name>1. Lợi nhuận trước thuế</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2229</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>2. Điều chỉnh cho các khoản</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2242</ReportNormID>
+		<PublishNormCode>02</PublishNormCode>
+		<Name>Khấu hao TSCĐ và BĐSĐT</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2243</ReportNormID>
+		<PublishNormCode>03</PublishNormCode>
+		<Name>Các khoản dự phòng</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2244</ReportNormID>
+		<PublishNormCode>04</PublishNormCode>
+		<Name>Lãi, lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản mục tiền tệ có gốc ngoại tệchưa thực hiện</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2245</ReportNormID>
+		<PublishNormCode>05</PublishNormCode>
+		<Name>Lãi, lỗ từ hoạt động đầu tư</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2241</ReportNormID>
+		<PublishNormCode>06</PublishNormCode>
+		<Name>Chi phí lãi vay</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5271</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Lãi, lỗ do thanh lý TSCĐ</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5272</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Thu nhập lãi vay và cổ tức</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5273</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Phân bổ lợi thế thương mại</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5274</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Điều chỉnh cho các khoản khác</Name>
+		<ParentName>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2233</ReportNormID>
+		<PublishNormCode>08</PublishNormCode>
+		<Name>3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2246</ReportNormID>
+		<PublishNormCode>09</PublishNormCode>
+		<Name>Tăng, giảm các khoản phải thu</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2247</ReportNormID>
+		<PublishNormCode>10</PublishNormCode>
+		<Name>Tăng, giảm hàng tồn kho</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2248</ReportNormID>
+		<PublishNormCode>11</PublishNormCode>
+		<Name>Tăng, giảm các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp)</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2249</ReportNormID>
+		<PublishNormCode>12</PublishNormCode>
+		<Name>Tăng, giảm chi phí trả trước</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5317</ReportNormID>
+		<PublishNormCode>13</PublishNormCode>
+		<Name>Tăng, giảm chứng khoán kinh doanh</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2250</ReportNormID>
+		<PublishNormCode>13</PublishNormCode>
+		<Name>Tiền lãi vay đã trả</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2251</ReportNormID>
+		<PublishNormCode>14</PublishNormCode>
+		<Name>Thuế thu nhập doanh nghiệp đã nộp</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2252</ReportNormID>
+		<PublishNormCode>15</PublishNormCode>
+		<Name>Tiền thu khác từ hoạt động kinh doanh</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2253</ReportNormID>
+		<PublishNormCode>16</PublishNormCode>
+		<Name>Tiền chi khác từ hoạt động kinh doanh</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động kinh doanh</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2234</ReportNormID>
+		<PublishNormCode>20</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần từ hoạt động kinh doanh</Name>
+		<ParentName>Lưu chuyển tiền thuần trong kỳ</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2230</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>II. Lưu chuyển tiền từ hoạt động đầu tư</Name>
+		<ParentName>II. Lưu chuyển tiền từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2254</ReportNormID>
+		<PublishNormCode>21</PublishNormCode>
+		<Name>1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2255</ReportNormID>
+		<PublishNormCode>22</PublishNormCode>
+		<Name>2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2256</ReportNormID>
+		<PublishNormCode>23</PublishNormCode>
+		<Name>3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2257</ReportNormID>
+		<PublishNormCode>24</PublishNormCode>
+		<Name>4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2258</ReportNormID>
+		<PublishNormCode>25</PublishNormCode>
+		<Name>5. Tiền chi đầu tư góp vốn vào đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2259</ReportNormID>
+		<PublishNormCode>26</PublishNormCode>
+		<Name>6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5275</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>8. Tăng giảm tiền gửi ngân hàng có kỳ hạn</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2260</ReportNormID>
+		<PublishNormCode>27</PublishNormCode>
+		<Name>7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>4068</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>9. Mua lại khoản góp vốn của cổ đông thiểu số trong công ty con</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5276</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>10. Tiền thu khác từ hoạt động đầu tư</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5277</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>11. Tiền chi khác cho hoat động đầu tư</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động đầu tư</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2235</ReportNormID>
+		<PublishNormCode>30</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần từ hoạt động đầu tư</Name>
+		<ParentName>Lưu chuyển tiền thuần trong kỳ</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2231</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>III. Lưu chuyển tiền từ hoạt động tài chính</Name>
+		<ParentName>III. Lưu chuyển tiền từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2261</ReportNormID>
+		<PublishNormCode>31</PublishNormCode>
+		<Name>1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2262</ReportNormID>
+		<PublishNormCode>32</PublishNormCode>
+		<Name>2. Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2263</ReportNormID>
+		<PublishNormCode>33</PublishNormCode>
+		<Name>3. Tiền thu từ đi vay</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2264</ReportNormID>
+		<PublishNormCode>34</PublishNormCode>
+		<Name>4. Tiền chi trả nợ gốc vay</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2265</ReportNormID>
+		<PublishNormCode>35</PublishNormCode>
+		<Name>5. Tiền trả nợ gốc thuê tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2266</ReportNormID>
+		<PublishNormCode>36</PublishNormCode>
+		<Name>6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu </Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5278</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>7. Tiền thu khác từ hoạt động tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>5279</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>8. Tiền chi khác cho hoạt động tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần từ hoạt động tài chính</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2236</ReportNormID>
+		<PublishNormCode>40</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần từ hoạt động tài chính</Name>
+		<ParentName>Lưu chuyển tiền thuần trong kỳ</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2238</ReportNormID>
+		<PublishNormCode>50</PublishNormCode>
+		<Name>Lưu chuyển tiền thuần trong kỳ</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50 +60 + 61)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2239</ReportNormID>
+		<PublishNormCode>60</PublishNormCode>
+		<Name>Tiền và tương đương tiền đầu kỳ</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50 +60 + 61)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2237</ReportNormID>
+		<PublishNormCode>61</PublishNormCode>
+		<Name>Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50 +60 + 61)</ParentName>
+	</rn>
+	<rn>
+		<Code>LCGT</Code>
+		<ReportNormID>2240</ReportNormID>
+		<PublishNormCode>70</PublishNormCode>
+		<Name>Tiền và tương đương tiền cuối kỳ (70 = 50 +60 + 61)</Name>
+		<ParentName>Tiền và tương đương tiền cuối kỳ (70 = 50 +60 + 61)</ParentName>
+	</rn>
+
+
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2305</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>1.Tài sản thuê ngoài </Name>
+		<ParentName>1.Tài sản thuê ngoài </ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2310</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>2.Vật tư, hàng hóa nhận giữ hộ, nhận gia công </Name>
+		<ParentName>2.Vật tư, hàng hóa nhận giữ hộ, nhận gia công </ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2306</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>3.Hàng hóa nhận bán hộ, nhận ký gửi </Name>
+		<ParentName>3.Hàng hóa nhận bán hộ, nhận ký gửi </ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2307</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>4.Nợ khó đòi đã xử lý </Name>
+		<ParentName>4.Nợ khó đòi đã xử lý </ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2308</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>5.Ngoại tệ các loại (USD)</Name>
+		<ParentName>5.Ngoại tệ các loại (USD)</ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2311</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>                               USD</Name>
+		<ParentName>5.Ngoại tệ các loại (USD)</ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2312</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>                               EURO</Name>
+		<ParentName>5.Ngoại tệ các loại (USD)</ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>4800</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>GBP</Name>
+		<ParentName>5.Ngoại tệ các loại (USD)</ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>4801</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>AUD</Name>
+		<ParentName>5.Ngoại tệ các loại (USD)</ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>4802</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>LAK</Name>
+		<ParentName>5.Ngoại tệ các loại (USD)</ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>4803</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>Khác</Name>
+		<ParentName>5.Ngoại tệ các loại (USD)</ParentName>
+	</rn>
+	<rn>
+		<Code>NB</Code>
+		<ReportNormID>2309</ReportNormID>
+		<PublishNormCode></PublishNormCode>
+		<Name>6.Dự toán chi hoạt động </Name>
+		<ParentName>6.Dự toán chi hoạt động </ParentName>
+	</rn>
+</rns>

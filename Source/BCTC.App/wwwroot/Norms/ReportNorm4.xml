@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rns>
+    <rn>
+		<ReportNormID>3413</ReportNormID>
+		<Code>CD</Code>
+		<Name>NGUỒN VỐN</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3414</ReportNormID>
+		<Code>CD</Code>
+		<Name>TÀI SẢN</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3415</ReportNormID>
+		<Code>CD</Code>
+		<Name>TỔNG TÀI SẢN</Name>
+		<NameEn />
+		<PublishNormCode>200</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3416</ReportNormID>
+		<Code>CD</Code>
+		<Name>Nợ phải trả</Name>
+		<NameEn />
+		<PublishNormCode>300</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3417</ReportNormID>
+		<Code>CD</Code>
+		<Name>TỔNG CỘNG NGUỒN VỐN</Name>
+		<NameEn />
+		<PublishNormCode>430</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3418</ReportNormID>
+		<Code>CD</Code>
+		<Name>Đầu tư chứng khoán</Name>
+		<NameEn />
+		<PublishNormCode>120</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3419</ReportNormID>
+		<Code>CD</Code>
+		<Name>Đầu tư khác</Name>
+		<NameEn />
+		<PublishNormCode>121</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3420</ReportNormID>
+		<Code>CD</Code>
+		<Name>Phải thu hoạt động đầu tư</Name>
+		<NameEn />
+		<PublishNormCode>130</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3422</ReportNormID>
+		<Code>CD</Code>
+		<Name>1.Thặng dư vốn</Name>
+		<NameEn />
+		<PublishNormCode>412</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3423</ReportNormID>
+		<Code>CD</Code>
+		<Name>Tiền gửi ngân hàng</Name>
+		<NameEn />
+		<PublishNormCode>110</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3424</ReportNormID>
+		<Code>CD</Code>
+		<Name>Phải thu khác</Name>
+		<NameEn />
+		<PublishNormCode>131</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3425</ReportNormID>
+		<Code>CD</Code>
+		<Name>Vay ngắn hạn</Name>
+		<NameEn />
+		<PublishNormCode>310</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3426</ReportNormID>
+		<Code>CD</Code>
+		<Name>Phải trả hoạt động đầu tư (kinh doanh chứng khoán)</Name>
+		<NameEn />
+		<PublishNormCode>311</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3427</ReportNormID>
+		<Code>CD</Code>
+		<Name>Phải trả thu nhập cho Nhà đầu tư</Name>
+		<NameEn />
+		<PublishNormCode>312</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3428</ReportNormID>
+		<Code>CD</Code>
+		<Name>Phải trả phụ cấp Ban đại diện Quỹ</Name>
+		<NameEn />
+		<PublishNormCode>314</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3429</ReportNormID>
+		<Code>CD</Code>
+		<Name>Phải trả cho Công ty quản lý Quỹ, NH giám sát</Name>
+		<NameEn />
+		<PublishNormCode>315</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3430</ReportNormID>
+		<Code>CD</Code>
+		<Name> Phải trả khác</Name>
+		<NameEn />
+		<PublishNormCode>318</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3431</ReportNormID>
+		<Code>CD</Code>
+		<Name>Vốn góp của các nhà đầu tư</Name>
+		<NameEn />
+		<PublishNormCode>410</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3432</ReportNormID>
+		<Code>CD</Code>
+		<Name>Kết quả hoạt động chưa phân phối</Name>
+		<NameEn />
+		<PublishNormCode>420</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3436</ReportNormID>
+		<Code>CD</Code>
+		<Name>1.Vốn góp</Name>
+		<NameEn />
+		<PublishNormCode>411</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>4074</ReportNormID>
+		<Code>CD</Code>
+		<Name>Nguồn vốn chủ sở hữu</Name>
+		<NameEn />
+		<PublishNormCode>400</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3437</ReportNormID>
+		<Code>KQ</Code>
+		<Name>XÁC ĐỊNH KQKD ĐÃ THỰC HIỆN</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3438</ReportNormID>
+		<Code>KQ</Code>
+		<Name>XÁC ĐỊNH KẾT QUẢ CHƯA THỰC HIỆN</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3439</ReportNormID>
+		<Code>KQ</Code>
+		<Name>TỔNG LỢI NHUẬN RÒNG TRONG KỲ</Name>
+		<NameEn />
+		<PublishNormCode>90</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3440</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Thu nhập từ hoạt động đầu tư đã thực hiện</Name>
+		<NameEn />
+		<PublishNormCode>10</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3441</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Chi phí</Name>
+		<NameEn />
+		<PublishNormCode>30</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3442</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Kết quả hoạt động ròng đã thực hiện được phân phối trong kỳ (I-II)</Name>
+		<NameEn />
+		<PublishNormCode>50</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3443</ReportNormID>
+		<Code>KQ</Code>
+		<Name>V. Thay đổi của giá trị tài sản ròng của quỹ do các hoạt động đầu tư trong kỳ (III+IV)</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3444</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Thu nhập</Name>
+		<NameEn />
+		<PublishNormCode>60</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3445</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Chi phí</Name>
+		<NameEn />
+		<PublishNormCode>70</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3446</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Kết quả hoạt động chưa thực hiện cuối kỳ</Name>
+		<NameEn />
+		<PublishNormCode>80</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3447</ReportNormID>
+		<Code>KQ</Code>
+		<Name>IV. Lãi (lỗ) từ hoạt động đầu tư</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3448</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Cổ tức được nhận</Name>
+		<NameEn />
+		<PublishNormCode>11</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3449</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Lãi trái phiếu được nhận</Name>
+		<NameEn />
+		<PublishNormCode>12</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3450</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Lãi tiền gửi</Name>
+		<NameEn />
+		<PublishNormCode>13</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3451</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Thu nhập bán chứng khoán</Name>
+		<NameEn />
+		<PublishNormCode>14</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3452</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Phí quản lý quỹ</Name>
+		<NameEn />
+		<PublishNormCode>31</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3453</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Phí giám sát, quản lý tài sản quỹ</Name>
+		<NameEn />
+		<PublishNormCode>32</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3454</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Chi phí họp, đại hội</Name>
+		<NameEn />
+		<PublishNormCode>33</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3455</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Chi phí kiểm toán</Name>
+		<NameEn />
+		<PublishNormCode>34</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3456</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Chi phí tư vấn định giá</Name>
+		<NameEn />
+		<PublishNormCode>35</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3457</ReportNormID>
+		<Code>KQ</Code>
+		<Name> Thưởng hoạt động</Name>
+		<NameEn />
+		<PublishNormCode>36</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3458</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Phí và chi phí khác</Name>
+		<NameEn />
+		<PublishNormCode>38</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3459</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Lãi (lỗ) thực tế phát sinh từ hoạt động đầu tư</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3460</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Thay đổi về giá trị của các khoản đầu tư trong kỳ</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3461</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Ghi nhận quyền phát hành thêm cp</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3462</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Khác</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>3463</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Thu nhập đánh giá các khoản đầu tư chứng khoán</Name>
+		<NameEn />
+		<PublishNormCode>61</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3464</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Cố tức chưa thực hiện</Name>
+		<NameEn />
+		<PublishNormCode>62</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3465</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Lãi trái phiếu chưa thực hiện</Name>
+		<NameEn />
+		<PublishNormCode>63</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3466</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Lãi tiền gửi chưa thực hiện</Name>
+		<NameEn />
+		<PublishNormCode>64</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3467</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Thu nhập chênh lệch tỷ giá hối đoái đánh giá lại cuối kỳ</Name>
+		<NameEn />
+		<PublishNormCode>65</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3468</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Chênh lệch lỗ đánh giá các khoản đầu tư</Name>
+		<NameEn />
+		<PublishNormCode>71</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3469</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Chênh lệch lỗ tỷ giá hối đoái đánh giá lại cuối kỳ</Name>
+		<NameEn />
+		<PublishNormCode>72</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3470</ReportNormID>
+		<Code>KQ</Code>
+		<Name>Thu nhập khác</Name>
+		<NameEn />
+		<PublishNormCode>18</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>3471</ReportNormID>
+		<Code>KQ</Code>
+		<Name> Khác</Name>
+		<NameEn />
+		<PublishNormCode>66</PublishNormCode>
+		</rn>
+	<rn>
+		<ReportNormID>4084</ReportNormID>
+		<Code>NB</Code>
+		<Name>Ngoại tệ các loại</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>4085</ReportNormID>
+		<Code>NB</Code>
+		<Name>Chứng khoán theo mệnh giá</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+	<rn>
+		<ReportNormID>4086</ReportNormID>
+		<Code>NB</Code>
+		<Name>Nợ khó đòi đã xử lý</Name>
+		<NameEn />
+		<PublishNormCode />
+		</rn>
+</rns>

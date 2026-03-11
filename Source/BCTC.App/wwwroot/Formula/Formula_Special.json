@@ -1,0 +1,126 @@
+[
+  {
+    "ReportNorm": 4510,
+    "Formula": "@4510 + @1101"
+  },
+  {
+    "ReportNorm": 4603,
+    "Formula": "@1102 + @1103"
+  },
+  {
+    "ReportNorm": 5447,
+    "Formula": "@1104 + @1105"
+  },
+  {
+    "ReportNorm": 4594,
+    "Formula": "@4594 + @1106"
+  },
+  {
+    "ReportNorm": 4609,
+    "Formula": "@1107"
+  },
+  {
+    "ReportNorm": 4354,
+    "Formula": "@4354 + @1108 + @1109"
+  },
+  {
+    "ReportNorm": 4343,
+    "Formula": "@1123 + @1124"
+  },
+  {
+    "ReportNorm": 3979,
+    "Formula": "IF(@1110, @1125 + @1126 + @1127 + @1128)"
+  },
+  {
+    "ReportNorm": 4392,
+    "Formula": "@1111"
+  },
+  {
+    "ReportNorm": 3137,
+    "Formula": "@3137 + @1132"
+  },
+  {
+    "ReportNorm": 5333,
+    "Formula": "@5333 + @1133"
+  },
+  {
+    "ReportNorm": 3188,
+    "Formula": "@3188 + @1134"
+  },
+  {
+    "ReportNorm": 4055,
+    "Formula": "@4055 + @1135"
+  },
+  {
+    "ReportNorm": 5353,
+    "Formula": "@5353 + @1136"
+  },
+  {
+    "ReportNorm": 3120,
+    "Formula": "@3120 + @1137"
+  },
+  {
+    "ReportNorm": 3240,
+    "Formula": "@1112"
+  },
+  {
+    "ReportNorm": 3708,
+    "Formula": "@1113"
+  },
+  {
+    "ReportNorm": 3714,
+    "Formula": "@1114"
+  },
+  {
+    "ReportNorm": 3695,
+    "Formula": "@1129"
+  },  
+  {
+    "ReportNorm": 5348,
+    "Formula": "@1138"
+  },
+  {
+    "ReportNorm": 3157,
+    "Formula": "IF(#StockCode=\"BLI\", @1115, @3157)"
+  },
+  {
+    "ReportNorm": 3711,
+    "Formula": "IF(#StockCode=\"ABI\", @1116, @3711)"
+  },
+  {
+    "ReportNorm": 3708,
+    "Formula": "IF(#StockCode=\"BVH\", @1116, @3708)"
+  },
+  {
+    "ReportNorm": 3697,
+    "Formula": "IF(#StockCode=\"ABI\", @1117, @3697)"
+  },
+  {
+    "ReportNorm": 3671,
+    "Formula": "IF(#StockCode=\"ABI\", @3668, @3671)"
+  },
+  {
+    "ReportNorm": 3719,
+    "Formula": "IF(#StockCode=\"ABI\", @1118, @3719)"
+  },
+  {
+    "ReportNorm": 3711,
+    "Formula": "IF(#StockCode=\"VNR\", @1113, @3711)"
+  },
+  {
+    "ReportNorm": 3700,
+    "Formula": "IF(#StockCode=\"BVH\", @1120, @3700)"
+  },
+  {
+    "ReportNorm": 3676,
+    "Formula": "IF(#StockCode=\"BVH\", @1121, @3676)"
+  },
+  {
+    "ReportNorm": 3701,
+    "Formula": "IF(#StockCode=\"BVH\", @1122, @3701)"
+  },
+  {
+    "ReportNorm": 3117,
+    "Formula": "IF(#StockCode=\"BVH\", @3117, @null)"
+  }
+]

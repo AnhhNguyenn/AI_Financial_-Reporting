@@ -1,0 +1,145 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="logs\**" />
+    <Compile Remove="wwwroot\excel\**" />
+    <Compile Remove="wwwroot\JsonScan\2024\01\**" />
+    <Compile Remove="wwwroot\JsonScan\2024\03\NewFolder\**" />
+    <Compile Remove="wwwroot\json\scan\**" />
+    <Compile Remove="wwwroot\logs\map-json\**" />
+    <Compile Remove="wwwroot\logs\scan-json\**" />
+    <EmbeddedResource Remove="logs\**" />
+    <EmbeddedResource Remove="wwwroot\excel\**" />
+    <EmbeddedResource Remove="wwwroot\JsonScan\2024\01\**" />
+    <EmbeddedResource Remove="wwwroot\JsonScan\2024\03\NewFolder\**" />
+    <EmbeddedResource Remove="wwwroot\json\scan\**" />
+    <EmbeddedResource Remove="wwwroot\logs\map-json\**" />
+    <EmbeddedResource Remove="wwwroot\logs\scan-json\**" />
+    <None Remove="logs\**" />
+    <None Remove="wwwroot\excel\**" />
+    <None Remove="wwwroot\JsonScan\2024\01\**" />
+    <None Remove="wwwroot\JsonScan\2024\03\NewFolder\**" />
+    <None Remove="wwwroot\json\scan\**" />
+    <None Remove="wwwroot\logs\map-json\**" />
+    <None Remove="wwwroot\logs\scan-json\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="itext7" Version="9.5.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="10.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="9.0.10" />
+    <PackageReference Include="NPOI" Version="2.7.5" />
+    <PackageReference Include="OpenAI" Version="2.8.0" />
+    <PackageReference Include="OpenCvSharp4" Version="4.11.0.20250507" />
+    <PackageReference Include="OpenCvSharp4.Extensions" Version="4.11.0.20250507" />
+    <PackageReference Include="OpenCvSharp4.runtime.win" Version="4.11.0.20250507" />
+    <PackageReference Include="PdfiumViewer" Version="2.13.0" />
+    <PackageReference Include="PdfiumViewer.Native.x86_64.v8-xfa" Version="2018.4.8.256" />
+    <PackageReference Include="PdfSharpCore" Version="1.3.67" />
+    <PackageReference Include="Serilog" Version="4.3.0" />
+    <PackageReference Include="Serilog.Expressions" Version="5.0.0" />
+    <PackageReference Include="Serilog.Extensions.Hosting" Version="9.0.0" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="9.0.2" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="10.0.0" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="7.0.0" />
+    <PackageReference Include="SharpCompress" Version="0.41.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\JsonMap\2024\02\Q1\BH\" />
+    <Folder Include="wwwroot\JsonMap\2024\02\Q2\BH\" />
+    <Folder Include="wwwroot\JsonMap\2024\02\Q2\NH\" />
+    <Folder Include="wwwroot\JsonScan\2024\02\N\BH\" />
+    <Folder Include="wwwroot\JsonScan\2024\03\N\CK\" />
+    <Folder Include="wwwroot\JsonScan\2024\03\N\CP\" />
+    <Folder Include="wwwroot\JsonScan\2024\03\Q2\NH\" />
+    <Folder Include="wwwroot\JsonScan\2025\01\Q4\NH\" />
+    <Folder Include="wwwroot\json\processed\2024\6D\CK\" />
+    <Folder Include="wwwroot\json\processed\2024\Q2\CK\" />
+    <Folder Include="wwwroot\json\processed\2025\N\" />
+    <Folder Include="wwwroot\json\processed\2025\N\NH\" />
+    <Folder Include="wwwroot\mapping_cache\2024\CK\Q1\" />
+    <Folder Include="wwwroot\mapping_cache\2024\CK\Q2\" />
+    <Folder Include="wwwroot\mapping_cache\2024\NH\N\" />
+    <Folder Include="wwwroot\mapping_cache\2025\NH\Q4\" />
+    <Folder Include="wwwroot\PdfChunk\2024\01\6D\CK\" />
+    <Folder Include="wwwroot\PdfChunk\2024\01\N\CK\" />
+    <Folder Include="wwwroot\PdfChunk\2024\01\N\NH\" />
+    <Folder Include="wwwroot\PdfChunk\2024\01\Q1\CK\" />
+    <Folder Include="wwwroot\PdfChunk\2024\01\Q2\CK\" />
+    <Folder Include="wwwroot\PdfChunk\2024\02\N\BH\" />
+    <Folder Include="wwwroot\PdfChunk\2024\02\N\CK\" />
+    <Folder Include="wwwroot\PdfChunk\2024\02\N\NH\" />
+    <Folder Include="wwwroot\PdfChunk\2024\02\Q1\CK\" />
+    <Folder Include="wwwroot\PdfChunk\2024\02\Q2\CK\" />
+    <Folder Include="wwwroot\PdfDownload\2024\01\N\CK\" />
+    <Folder Include="wwwroot\PdfDownload\2024\01\N\NH\" />
+    <Folder Include="wwwroot\PdfDownload\2024\01\Q1\CK\" />
+    <Folder Include="wwwroot\pdf\limited\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BCTC.BusinessLogic\BCTC.BusinessLogic.csproj" />
+    <ProjectReference Include="..\BCTC.DataAccess\BCTC.DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Formula\Formula_BH.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Formula\Formula_CK.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Formula\Formula_CP.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Formula\Formula_NH.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Formula\Formula_Special.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\norms\ReportNorm1.xml">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\ReportNorm1.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\ReportNorm2.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\ReportNorm3.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\ReportNorm5.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Templates\BH.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Templates\CK.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Templates\CP.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="wwwroot\Templates\NH.xls">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
+
+</Project>

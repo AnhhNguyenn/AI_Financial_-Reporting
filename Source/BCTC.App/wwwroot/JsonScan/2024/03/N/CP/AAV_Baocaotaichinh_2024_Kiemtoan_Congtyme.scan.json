@@ -1,0 +1,1462 @@
+{
+  "BusinessTypeID": 1,
+  "BusinessTypeName": "CTCP Thường",
+  "Company": "AAV",
+  "Currency": "Đồng Việt Nam",
+  "BaseCurrency": "VND",
+  "CurrencyUnit": 1,
+  "IncomeStatement": [
+    {
+      "Item": "Doanh thu bán hàng và cung cấp dịch vụ",
+      "Values": {
+        "KyNay": 181782560,
+        "KyTruoc": 7894000600,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "01",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Các khoản giảm trừ doanh thu",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "02",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Doanh thu thuần về bán hàng và cung cấp dịch vụ",
+      "Values": {
+        "KyNay": 181782560,
+        "KyTruoc": 7894000600,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "10",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Giá vốn hàng bán",
+      "Values": {
+        "KyNay": 143638932,
+        "KyTruoc": 7624331832,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "11",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Lợi nhuận gộp về bán hàng và cung cấp dịch vụ",
+      "Values": {
+        "KyNay": 38143628,
+        "KyTruoc": 269668768,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "20",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Doanh thu hoạt động tài chính",
+      "Values": {
+        "KyNay": 4095771500,
+        "KyTruoc": 9823517501,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "21",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Chi phí tài chính",
+      "Values": {
+        "KyNay": 5754224567,
+        "KyTruoc": 4254961127,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "22",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Chi phí lãi vay",
+      "Values": {
+        "KyNay": 61757215,
+        "KyTruoc": 641589732,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "23",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Chi phí tài chính"
+    },
+    {
+      "Item": "Chi phí quản lý doanh nghiệp",
+      "Values": {
+        "KyNay": 4076112543,
+        "KyTruoc": 5490342202,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "26",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Lợi nhuận thuần từ hoạt động kinh doanh",
+      "Values": {
+        "KyNay": -5696421982,
+        "KyTruoc": 347882940,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "30",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Thu nhập khác",
+      "Values": {
+        "KyNay": 903250,
+        "KyTruoc": 13636363636,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "31",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Chi phí khác",
+      "Values": {
+        "KyNay": 377545625,
+        "KyTruoc": 12682314068,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "32",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Lợi nhuận khác",
+      "Values": {
+        "KyNay": -376642375,
+        "KyTruoc": 954049568,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "40",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Tổng lợi nhuận kế toán trước thuế",
+      "Values": {
+        "KyNay": -6073064357,
+        "KyTruoc": 1301932508,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "50",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Chi phí thuế TNDN hiện hành",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": 276386502,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "51",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Chi phí thuế TNDN hoãn lại",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "52",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+      "Values": {
+        "KyNay": -6073064357,
+        "KyTruoc": 1025546006,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "60",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    }
+  ],
+  "BalanceSheet": [
+    {
+      "Item": "TÀI SẢN NGẮN HẠN",
+      "Values": {
+        "KyNay": 434178874631,
+        "KyTruoc": 493280853669,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "100",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Tiền và các khoản tương đương tiền",
+      "Values": {
+        "KyNay": 1415236810,
+        "KyTruoc": 65320835,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "110",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN NGẮN HẠN"
+    },
+    {
+      "Item": "Tiền",
+      "Values": {
+        "KyNay": 1415236810,
+        "KyTruoc": 65320835,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "111",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tiền và các khoản tương đương tiền"
+    },
+    {
+      "Item": "Các khoản đầu tư tài chính ngắn hạn",
+      "Values": {
+        "KyNay": 138000000000,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "120",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN NGẮN HẠN"
+    },
+    {
+      "Item": "Đầu tư nắm giữ đến ngày đáo hạn",
+      "Values": {
+        "KyNay": 138000000000,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "123",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản đầu tư tài chính ngắn hạn"
+    },
+    {
+      "Item": "Các khoản phải thu ngắn hạn",
+      "Values": {
+        "KyNay": 285292928002,
+        "KyTruoc": 484142760642,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "130",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN NGẮN HẠN"
+    },
+    {
+      "Item": "Phải thu ngắn hạn của khách hàng",
+      "Values": {
+        "KyNay": 2771003000,
+        "KyTruoc": 2763413000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "131",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản phải thu ngắn hạn"
+    },
+    {
+      "Item": "Trả trước cho người bán ngắn hạn",
+      "Values": {
+        "KyNay": 144133793600,
+        "KyTruoc": 256683256582,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "132",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản phải thu ngắn hạn"
+    },
+    {
+      "Item": "Phải thu ngắn hạn khác",
+      "Values": {
+        "KyNay": 141486544402,
+        "KyTruoc": 228169504060,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "136",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản phải thu ngắn hạn"
+    },
+    {
+      "Item": "Dự phòng phải thu ngắn hạn khó đòi",
+      "Values": {
+        "KyNay": -3098413000,
+        "KyTruoc": -3473413000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "137",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản phải thu ngắn hạn"
+    },
+    {
+      "Item": "Tài sản ngắn hạn khác",
+      "Values": {
+        "KyNay": 9470709819,
+        "KyTruoc": 9072772192,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "150",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN NGẮN HẠN"
+    },
+    {
+      "Item": "Thuế GTGT được khấu trừ",
+      "Values": {
+        "KyNay": 8659491630,
+        "KyTruoc": 8517940514,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "152",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản ngắn hạn khác"
+    },
+    {
+      "Item": "Thuế và các khoản khác phải thu Nhà nước",
+      "Values": {
+        "KyNay": 811218189,
+        "KyTruoc": 554831678,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "153",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản ngắn hạn khác"
+    },
+    {
+      "Item": "TÀI SẢN DÀI HẠN",
+      "Values": {
+        "KyNay": 457809116401,
+        "KyTruoc": 396639155277,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "200",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Các khoản phải thu dài hạn",
+      "Values": {
+        "KyNay": 3400295379,
+        "KyTruoc": 4228954996,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "210",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN DÀI HẠN"
+    },
+    {
+      "Item": "Phải thu dài hạn khác",
+      "Values": {
+        "KyNay": 3400295379,
+        "KyTruoc": 4228954996,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "216",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản phải thu dài hạn"
+    },
+    {
+      "Item": "Tài sản cố định",
+      "Values": {
+        "KyNay": 12791955954,
+        "KyTruoc": 13799030298,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "220",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN DÀI HẠN"
+    },
+    {
+      "Item": "Tài sản cố định hữu hình",
+      "Values": {
+        "KyNay": 12759494742,
+        "KyTruoc": 13747506582,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "221",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản cố định"
+    },
+    {
+      "Item": "- Nguyên giá",
+      "Values": {
+        "KyNay": 21951728511,
+        "KyTruoc": 21951728511,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "222",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản cố định hữu hình"
+    },
+    {
+      "Item": "- Giá trị hao mòn luỹ kế",
+      "Values": {
+        "KyNay": -9192233769,
+        "KyTruoc": -8204221929,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "223",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản cố định hữu hình"
+    },
+    {
+      "Item": "Tài sản cố định vô hình",
+      "Values": {
+        "KyNay": 32461212,
+        "KyTruoc": 51523716,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "227",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản cố định"
+    },
+    {
+      "Item": "- Nguyên giá",
+      "Values": {
+        "KyNay": 122500000,
+        "KyTruoc": 122500000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "228",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản cố định vô hình"
+    },
+    {
+      "Item": "- Giá trị hao mòn luỹ kế",
+      "Values": {
+        "KyNay": -90038788,
+        "KyTruoc": -70976284,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "229",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản cố định vô hình"
+    },
+    {
+      "Item": "Bất động sản đầu tư",
+      "Values": {
+        "KyNay": 4508520880,
+        "KyTruoc": 4652159812,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "230",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN DÀI HẠN"
+    },
+    {
+      "Item": "- Nguyên giá",
+      "Values": {
+        "KyNay": 6605445474,
+        "KyTruoc": 6605445474,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "231",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Bất động sản đầu tư"
+    },
+    {
+      "Item": "- Giá trị hao mòn luỹ kế",
+      "Values": {
+        "KyNay": -2096924594,
+        "KyTruoc": -1953285662,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "232",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Bất động sản đầu tư"
+    },
+    {
+      "Item": "Tài sản dở dang dài hạn",
+      "Values": {
+        "KyNay": 194069184161,
+        "KyTruoc": 153092663369,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "240",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN DÀI HẠN"
+    },
+    {
+      "Item": "Chi phí sản xuất, kinh doanh dở dang dài hạn",
+      "Values": {
+        "KyNay": 194069184161,
+        "KyTruoc": 153092663369,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "241",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản dở dang dài hạn"
+    },
+    {
+      "Item": "Các khoản đầu tư tài chính dài hạn",
+      "Values": {
+        "KyNay": 242923728895,
+        "KyTruoc": 220317662537,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "250",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN DÀI HẠN"
+    },
+    {
+      "Item": "Đầu tư vào công ty con",
+      "Values": {
+        "KyNay": 234118533710,
+        "KyTruoc": 225820000000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "251",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản đầu tư tài chính dài hạn"
+    },
+    {
+      "Item": "Đầu tư vào công ty liên doanh, liên kết",
+      "Values": {
+        "KyNay": 20000000000,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "252",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản đầu tư tài chính dài hạn"
+    },
+    {
+      "Item": "Dự phòng đầu tư tài chính dài hạn",
+      "Values": {
+        "KyNay": -11194804815,
+        "KyTruoc": -5502337463,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "254",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Các khoản đầu tư tài chính dài hạn"
+    },
+    {
+      "Item": "Tài sản dài hạn khác",
+      "Values": {
+        "KyNay": 115431132,
+        "KyTruoc": 548684265,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "260",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "TÀI SẢN DÀI HẠN"
+    },
+    {
+      "Item": "Chi phí trả trước dài hạn",
+      "Values": {
+        "KyNay": 115431132,
+        "KyTruoc": 548684265,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "261",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Tài sản dài hạn khác"
+    },
+    {
+      "Item": "TỔNG CỘNG TÀI SẢN",
+      "Values": {
+        "KyNay": 891987991032,
+        "KyTruoc": 889920008946,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "270",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "NỢ PHẢI TRẢ",
+      "Values": {
+        "KyNay": 118566918758,
+        "KyTruoc": 110425872315,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "300",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Nợ ngắn hạn",
+      "Values": {
+        "KyNay": 79769140481,
+        "KyTruoc": 71504627969,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "310",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "NỢ PHẢI TRẢ"
+    },
+    {
+      "Item": "Phải trả cho người bán ngắn hạn",
+      "Values": {
+        "KyNay": 162311099,
+        "KyTruoc": 173685099,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "311",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ ngắn hạn"
+    },
+    {
+      "Item": "Thuế và các khoản phải nộp Nhà nước",
+      "Values": {
+        "KyNay": 4754000,
+        "KyTruoc": 1257725,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "313",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ ngắn hạn"
+    },
+    {
+      "Item": "Phải trả người lao động",
+      "Values": {
+        "KyNay": 99437750,
+        "KyTruoc": 124981192,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "314",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ ngắn hạn"
+    },
+    {
+      "Item": "Chi phí phải trả ngắn hạn",
+      "Values": {
+        "KyNay": 93575667,
+        "KyTruoc": 31818452,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "315",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ ngắn hạn"
+    },
+    {
+      "Item": "Doanh thu chưa thực hiện ngắn hạn",
+      "Values": {
+        "KyNay": 125354545,
+        "KyTruoc": 145325581,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "318",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ ngắn hạn"
+    },
+    {
+      "Item": "Phải trả ngắn hạn khác",
+      "Values": {
+        "KyNay": 2208000,
+        "KyTruoc": 2977500,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "319",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ ngắn hạn"
+    },
+    {
+      "Item": "Vay và nợ thuê tài chính ngắn hạn",
+      "Values": {
+        "KyNay": 79281499420,
+        "KyTruoc": 71024582420,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "320",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ ngắn hạn"
+    },
+    {
+      "Item": "Nợ dài hạn",
+      "Values": {
+        "KyNay": 38797778277,
+        "KyTruoc": 38921244346,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "330",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "NỢ PHẢI TRẢ"
+    },
+    {
+      "Item": "Người mua trả tiền trước dài hạn",
+      "Values": {
+        "KyNay": 35024231619,
+        "KyTruoc": 35024231619,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "332",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ dài hạn"
+    },
+    {
+      "Item": "Doanh thu chưa thực hiện dài hạn",
+      "Values": {
+        "KyNay": 3773546658,
+        "KyTruoc": 3897012727,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "336",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Nợ dài hạn"
+    },
+    {
+      "Item": "VỐN CHỦ SỞ HỮU",
+      "Values": {
+        "KyNay": 773421072274,
+        "KyTruoc": 779494136631,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "400",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Vốn chủ sở hữu",
+      "Values": {
+        "KyNay": 773421072274,
+        "KyTruoc": 779494136631,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "410",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "VỐN CHỦ SỞ HỮU"
+    },
+    {
+      "Item": "Vốn góp của chủ sở hữu",
+      "Values": {
+        "KyNay": 689876610000,
+        "KyTruoc": 689876610000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "411",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Vốn chủ sở hữu"
+    },
+    {
+      "Item": "- Cổ phiếu phổ thông có quyền biểu quyết",
+      "Values": {
+        "KyNay": 689876610000,
+        "KyTruoc": 689876610000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "411a",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Vốn góp của chủ sở hữu"
+    },
+    {
+      "Item": "Thặng dư vốn cổ phần",
+      "Values": {
+        "KyNay": 65711978000,
+        "KyTruoc": 65711978000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "412",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Vốn chủ sở hữu"
+    },
+    {
+      "Item": "Lợi nhuận sau thuế chưa phân phối",
+      "Values": {
+        "KyNay": 17832484274,
+        "KyTruoc": 23905548631,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "421",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Vốn chủ sở hữu"
+    },
+    {
+      "Item": "- LNST chưa phân phối lũy kế đến cuối kỳ trước",
+      "Values": {
+        "KyNay": 23905548631,
+        "KyTruoc": 22880002625,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "421a",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Lợi nhuận sau thuế chưa phân phối"
+    },
+    {
+      "Item": "- LNST chưa phân phối kỳ này",
+      "Values": {
+        "KyNay": -6073064357,
+        "KyTruoc": 1025546006,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "421b",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "Lợi nhuận sau thuế chưa phân phối"
+    },
+    {
+      "Item": "TỔNG CỘNG NGUỒN VỐN",
+      "Values": {
+        "KyNay": 891987991032,
+        "KyTruoc": 889920008946,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "440",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    }
+  ],
+  "CashFlow": [
+    {
+      "Item": "I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": null,
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "1. Lợi nhuận trước thuế",
+      "Values": {
+        "KyNay": -6073064357,
+        "KyTruoc": 1301932508,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "01",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH"
+    },
+    {
+      "Item": "2. Điều chỉnh cho các khoản :",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": null,
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH"
+    },
+    {
+      "Item": "Khấu hao tài sản cố định và bất động sản đầu tư",
+      "Values": {
+        "KyNay": 1150713276,
+        "KyTruoc": 1157806725,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "02",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "2. Điều chỉnh cho các khoản :"
+    },
+    {
+      "Item": "Các khoản dự phòng",
+      "Values": {
+        "KyNay": 5317467352,
+        "KyTruoc": 4323371395,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "03",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "2. Điều chỉnh cho các khoản :"
+    },
+    {
+      "Item": "Lãi, lỗ từ hoạt động đầu tư",
+      "Values": {
+        "KyNay": -4095771500,
+        "KyTruoc": -9823517501,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "05",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "2. Điều chỉnh cho các khoản :"
+    },
+    {
+      "Item": "Chi phí lãi vay",
+      "Values": {
+        "KyNay": 61757215,
+        "KyTruoc": 641589732,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "06",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "2. Điều chỉnh cho các khoản :"
+    },
+    {
+      "Item": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+      "Values": {
+        "KyNay": -3638898014,
+        "KyTruoc": -2398817141,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "08",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH"
+    },
+    {
+      "Item": "Tăng (-), giảm (+) các khoản phải thu",
+      "Values": {
+        "KyNay": 201398485543,
+        "KyTruoc": -44973035048,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "09",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động"
+    },
+    {
+      "Item": "Tăng (-), giảm (+) hàng tồn kho",
+      "Values": {
+        "KyNay": -40976520792,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "10",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động"
+    },
+    {
+      "Item": "Tăng (+), giảm (-) các khoản phải trả (không kể lãi vay phải trả, thuế thu nhập phải nộp)",
+      "Values": {
+        "KyNay": -177627772,
+        "KyTruoc": -1931848991,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "11",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động"
+    },
+    {
+      "Item": "Tăng (-), giảm (+) chi phí trả trước",
+      "Values": {
+        "KyNay": 433253133,
+        "KyTruoc": 13183819016,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "12",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động"
+    },
+    {
+      "Item": "Tiền lãi vay đã trả",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": -651081162,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "14",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động"
+    },
+    {
+      "Item": "Thuế thu nhập doanh nghiệp đã nộp",
+      "Values": {
+        "KyNay": -256386511,
+        "KyTruoc": -451751636,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "15",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động"
+    },
+    {
+      "Item": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      "Values": {
+        "KyNay": 156782305587,
+        "KyTruoc": -37222714962,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "20",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH"
+    },
+    {
+      "Item": "II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": null,
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "1. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+      "Values": {
+        "KyNay": -298000000000,
+        "KyTruoc": -18000000000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "23",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    },
+    {
+      "Item": "2. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+      "Values": {
+        "KyNay": 160000000000,
+        "KyTruoc": 18000000000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "24",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    },
+    {
+      "Item": "3. Tiền chi đầu tư góp vốn vào đơn vị khác",
+      "Values": {
+        "KyNay": -28298533710,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "25",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    },
+    {
+      "Item": "4. Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": 48000000000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "26",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    },
+    {
+      "Item": "5. Tiền thu từ lãi cho vay, cổ tức và lợi nhuận được chia",
+      "Values": {
+        "KyNay": 2609227098,
+        "KyTruoc": 210366501,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "27",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    },
+    {
+      "Item": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      "Values": {
+        "KyNay": -163689306612,
+        "KyTruoc": 48210366501,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "30",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "II. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ"
+    },
+    {
+      "Item": "III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+      "Values": {
+        "KyNay": null,
+        "KyTruoc": null,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": null,
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "1. Tiền thu từ đi vay",
+      "Values": {
+        "KyNay": 30300000000,
+        "KyTruoc": 7998000000,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "33",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+    },
+    {
+      "Item": "2. Tiền trả nợ gốc vay",
+      "Values": {
+        "KyNay": -22043083000,
+        "KyTruoc": -20996285844,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "34",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+    },
+    {
+      "Item": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+      "Values": {
+        "KyNay": 8256917000,
+        "KyTruoc": -12998285844,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "40",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": "III. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH"
+    },
+    {
+      "Item": "Lưu chuyển tiền thuần trong năm (50 = 20+30+40)",
+      "Values": {
+        "KyNay": 1349915975,
+        "KyTruoc": -2010634305,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "50",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Tiền và tương đương tiền đầu năm",
+      "Values": {
+        "KyNay": 65320835,
+        "KyTruoc": 2075955140,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "60",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    },
+    {
+      "Item": "Tiền và tương đương tiền cuối năm (70 = 50+60+61)",
+      "Values": {
+        "KyNay": 1415236810,
+        "KyTruoc": 65320835,
+        "LuyKe_KyNay": null,
+        "LuyKe_KyTruoc": null
+      },
+      "ReportNormID": null,
+      "Code": "70",
+      "NormName": null,
+      "PublishNormCode": null,
+      "ParentName": null
+    }
+  ],
+  "OffBalanceSheet": [],
+  "CashFlowMethod": "Indirect",
+  "Meta": {
+    "MaCongTy": "AAV",
+    "TenCongTy": "CTCP AAV Group",
+    "KyBaoCao": "N",
+    "Nam": 2024,
+    "TrangThaiKiemDuyet": "KT",
+    "TinhChatBaoCao": "CTM",
+    "ThuocTinhKhac": "CDC",
+    "LoaiBaoCao": null,
+    "NgayCongBoBCTC": "31/03/2025",
+    "Url": "https://static2.vietstock.vn/data/HNX/2024/BCTC/VN/NAM/AAV_Baocaotaichinh_2024_Kiemtoan_Congtyme.zip"
+  },
+  "MetaDB": {
+    "AuditedNote": "BÁO CÁO TÀI CHÍNH RIÊNG ĐÃ ĐƯỢC KIỂM TOÁN",
+    "Note": null,
+    "CtyKiemToan": "Chi nhánh Công ty TNHH Kiểm toán và Dịch vụ tin học MOORE AISC",
+    "NgayKiemToan": "2025-03-28"
+  }
+}
